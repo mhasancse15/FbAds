@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fb Ads</string>
+    <string name="fb_banner_ads">449229082361178_449229505694469</string>
+    <string name="fb_interstitial_ads">449229082361178_449230065694413</string>
+    <string name="fb_native_banner_ads">899968300386260_910612882655135</string>
+    <string name="fb_native_ads">899968300386260_910613292655094</string>
+</resources>
